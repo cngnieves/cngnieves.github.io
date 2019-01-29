@@ -1,0 +1,76 @@
+h1 {
+    color: #B5CBB7;
+}
+
+body {
+    background-color: #818479;
+
+}
+
+/* Right Column*/
+
+.container {
+    color: #4A5759;
+}
+
+#RightColumn {
+    background-color: #F7F9F9;
+    margin-left: 6em;
+}
+
+.banana {
+    color: #8fa891;
+}
+
+#Education {
+    margin-top: 2em;
+}
+
+h5 {
+    font-size: 1.25em;
+    color: #5F7470
+}
+
+b {
+    color: #889696
+}
+
+/* Left COLOUMN */
+
+#LeftColumn {
+    background-image: linear-gradient(#889696, #B8BDB5, #D2D4C8);
+    height: 100vh
+}
+
+.deepee {
+    border-radius: 50%;
+    margin-top: 5em;
+    margin-left: 8em;
+    margin-right: 7em;
+    margin-bottom: 1em;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin-left: -3em;
+    margin-top: 3.5em
+}
+
+h3 {
+    color: #3818479;
+    text-align: center;
+}
+
+#LeftColumn b {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+}
+
+li {
+    margin-bottom: 1em
+}
