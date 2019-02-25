@@ -1,4 +1,13 @@
-.container {}
+body{
+    background-color: #FBFCFC;
+}
+.container {
+    background-color: #FBFCFC;
+}
+
+#bodytxt{
+    color:#212F3D;
+}
 
 #header {
     margin-top: 1em;
@@ -6,7 +15,7 @@
 }
 
 #headerpic {
-    margin-left: 3em;
+    margin-left: 13.1em;
 }
 
 
@@ -20,8 +29,19 @@
 }
 
 #fampic {
-    margin-top: 1em
+    margin-top: 1em;
 }
+#fampic2{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#framefam{
+    background-color: #E8E5D1;
+}
+
 
 
 
@@ -29,11 +49,22 @@
     background-color: #97A6AF;
 }
 
+#bffp{
+     margin-left: 27em;
+}
 #bffpic {
     margin-top: 1em;
 }
-
-
+#bffpic2{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#framebff{
+    background-color: #E8E5D1;
+}
 
 
 
